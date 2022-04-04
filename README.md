@@ -122,12 +122,3 @@ earn the marks for project 1.
 ● Basic functionality, functionality with colors, error handling, modularization (functions)
 and good coding practices will be considered when marking.
 ```
-## Deadline
-
-The deadline for the submission is ​ **24th April 2020** ​ 23:55h (No late submissions are accepted!)
-Submit your answer (without compile error or warning) in a single file with the filename
-E17yyyproject1.c, where yyy is your registration number.
-
-## Marks: ​You will get 10 marks for your final grade from the project.
-
-
